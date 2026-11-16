@@ -1,0 +1,19 @@
+{
+  "name": "Military 28 – Calisthenics a casa",
+  "short_name": "Military 28",
+  "description": "Programma personalizzato di 28 giorni, esercizi, timer e progressi offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09131c",
+  "theme_color": "#0c1723",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
